@@ -1,6 +1,6 @@
-### Continue the step at 
-##### time 2.16.08
-* https://youtu.be/843nec-IvW0?t=8168
+### I'm Finish already.
+##### You can start at 1.43.47
+* https://youtu.be/843nec-IvW0?t=6227
 
 <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="center">
 
