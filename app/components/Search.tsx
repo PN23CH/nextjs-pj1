@@ -26,7 +26,7 @@ export default function Search() {
         className="bg-white p-2 w-80 text-xl rounded-xl"
         placeholder="Search"
       />
-      <button className="py-2 px-3 text-xl rounded-xl bg-slate-300 ml-2 font-bold">
+      <button className="py-2 px-3 text-xl rounded-xl bg-slate-300 ml-2 font-bold hover:text-white hover:bg-slate-400">
         <HiMagnifyingGlass />
       </button>
     </form>
